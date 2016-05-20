@@ -1,6 +1,7 @@
 # ATM-Simulator
 Simulation of waiting times for a theoretical ATM.  Program for Intro. to Algorithmic Design II (Coastal Carolina University CSCI 150)
 
+Original Assignment:
 CSCI 150
 PROGRAM 5
 DUE: NOVEMBER 11, 2015
